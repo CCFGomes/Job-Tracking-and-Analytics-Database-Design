@@ -28,7 +28,7 @@ Follow the steps below to get started with the Job Tracking and Analytics Databa
 
 - Clone the repository:
 
-git clone https://github.com/your-username/job-tracking-database.git
+git clone https://github.com/CCFGomes/Job-Tracking-and-Analytics-Database-Design.git
 
 ### Execute the SQL script to create the database schema:
 
